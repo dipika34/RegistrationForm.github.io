@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: beige;
+}
+
+.firstStatement {
+    text-align: center;
+}
+
+#sub {
+    margin: 0 225px;
+}
+
+.user {
+    margin: 20px;
+}
+
+#btn {
+    width: 100px;
+   
+}
